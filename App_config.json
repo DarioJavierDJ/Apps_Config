@@ -153,7 +153,12 @@
     "Oracle.JDK.27",
     "Oracle.JDK.28",
     "Oracle.VirtualBox",
-    "Microsoft.Outlook"
+    "Microsoft.Outlook",
+    "Automattic.Wordpress",
+    "CoreyButler.NVMforWindows",
+    "JanDeDobbeleer.OhMyPosh",
+    "Volta.Volta",
+    "WinFsp.WinFsp"
   ],
   "blacklist": [
     "Oracle.MySQLWorkbench",
