@@ -271,19 +271,8 @@
   ],
   "skipIfRunning": {
     "Oracle.VirtualBox": ["VirtualBox", "VBoxSVC", "VBoxHeadless", "VBoxManage", "VirtualBoxVM"],
-    "Microsoft.Teams": ["ms-teams", "Teams"],
-    "Microsoft.Outlook": ["OUTLOOK", "olk"],
-    "Google.Chrome": ["chrome"],
-    "Google.Chrome.EXE": ["chrome"],
-    "Microsoft.Edge": ["msedge"],
-    "Mozilla.Firefox": ["firefox"],
-    "Adobe.Acrobat.Pro": ["Acrobat"],
-    "Adobe.Acrobat.Reader.64-bit": ["AcroRd32", "Acrobat"],
-    "Notepad++.Notepad++": ["notepad++"],
     "Git.Git": ["git", "git-bash"],
-    "JetBrains.DataGrip": ["datagrip64", "datagrip"],
     "Postman.Postman": ["Postman"],
-    "OpenJS.NodeJS": ["node"],
     "Docker.DockerDesktop": ["Docker Desktop"]
   }
 }
