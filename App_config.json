@@ -188,7 +188,7 @@
     "Microsoft.DotNet.Framework.Redistributable.1_1",
     "Microsoft.DotNet.Framework.Runtime",
     "Microsoft.DotNet.RepairTool",
-    "Microsoft.DotNet.SDK.8",
+    " Microsoft.DotNet.SDK.8",
     "Microsoft.VCRedist.2005.x64",
     "Microsoft.VCRedist.2005.x86",
     "Microsoft.VCRedist.2008.x64",
@@ -219,6 +219,9 @@
     "Microsoft.SQLServerManagementStudio",
     "Microsoft.SqlPackage.NETFramework",
     "Microsoft.Outlook",
+    "Microsoft.VisualStudio.2022.Community",
+    "Microsoft.VisualStudio.2022.Enterprise",
+    "Microsoft.VisualStudio.2022.Professional",
     "Oracle.JavaRuntimeEnvironment",
     "Oracle.JDK.17",
     "Oracle.JDK.18",
@@ -261,7 +264,9 @@
     "TechSmith.Snagit.2025",
     "TechSmith.Snagit.2026",
     "TechSmith.Snagit.2024",
-    "TechSmith.Camtasia"
+    "TechSmith.Camtasia",
+    "OpenVPNTechnologies.OpenVPNConnect",
+    "Microsoft.VisualStudioCode"
   ],
   "blacklist": [
     "Oracle.MySQLWorkbench",
